@@ -1,0 +1,98 @@
+
+body{
+    font-family: 'Raleway';   
+    margin: 0px;
+    padding: 0px;
+
+}
+div.container{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:#EDEDED;
+    padding-top: 0%;
+    padding-bottom: 0%;
+   
+
+}
+section.titulo{
+   
+    background-color:#EDEDED;
+  
+}
+
+ul.titulo-lista{
+    list-style: none;
+
+}
+img.titulo-img{
+    border-radius: 50%;
+    width: 25%;
+    height: 25%;
+    justify-content: center;
+}
+section.sobreMi{
+    background-color: aliceblue;
+    
+
+    
+}
+ul.skills-list{
+    list-style: none;
+    padding: 0px 0px 0px 0px;
+
+}
+li.skills-list-item{
+    padding: 5px;
+	margin-bottom: 5px;
+	color: #9799A6;
+	background-color: #FFF;
+	display: block;
+
+}
+li.hobbie-item{
+    padding: 5px;
+	margin-bottom: 5px;
+	color: #9799A6;
+	background-color: #FFF;
+}
+li.fa-item{
+    padding: 5px;
+	margin-bottom: 5px;
+	color: #9799A6;
+	background-color: #FFF;
+    
+    
+}
+section.contacto{
+    background-color: aliceblue;    
+    padding-right: 50px;
+
+}
+input#boton{
+    background-color: blue;
+    color:  #FFF;
+}
+section.skills{
+    
+    background-color:#EDEDED;
+}
+section.Hobbies{
+   
+    background-color:#EDEDED;
+}
+
+section.formacion-academica{
+    
+    background-color:#EDEDED;
+}
+ul{
+    list-style-type: disc;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+h3.skills-titulo{
+    background-color:#EDEDED;
+}
